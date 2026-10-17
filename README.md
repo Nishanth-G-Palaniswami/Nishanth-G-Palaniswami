@@ -8,6 +8,6 @@ Six repos are pinned below. If you have five minutes, these are the decisions wo
 - **Tests gate the marts.** [`census_dbt/tests`](https://github.com/Nishanth-G-Palaniswami/census-trade-warehouse/tree/main/census_dbt/tests): the singular dbt tests a table has to pass before it's published.
 - **Never steal focus.** [`overlay.py`](https://github.com/Nishanth-G-Palaniswami/voicebot/blob/main/src/voicebot/overlay.py) in voicebot: the recording indicator stays out of the foreground so the paste lands in your app.
 
-Before got2eat I owned tariff data pipelines at SAIL GTX (Cornell Tech Runway), which is why two of the pins are trade data.
+Before got2eat (Backed by Base44) I owned tariff data pipelines at SAIL GTX (Cornell Tech Runway), which is why two of the pins are trade data.
 
 [IEEE ICCCNT 2024 paper](https://ieeexplore.ieee.org/document/10725877) · [Resume](https://nishanthgp.me/resume.pdf)
